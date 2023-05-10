@@ -10,6 +10,7 @@ const login = ()=> {
 <label htmlFor="contraseña" className="contraseña">Contraseña</label>
 <input type="contraseña" id="contraseña" placeholder="*********" className="inputcontraseña" />
 <input type="submit" value="Log in" className="loginboton" />
+<a href="/">¿Olvidaste tu contraseña?</a>
 </form>
             </div>
 
