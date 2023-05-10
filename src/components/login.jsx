@@ -9,6 +9,7 @@ const login = ()=> {
 <input type="text" id="email" placeholder="robin23232@example.com" className="inputemail" />
 <label htmlFor="contraseña" className="contraseña">Contraseña</label>
 <input type="contraseña" id="contraseña" placeholder="*********" className="inputcontraseña" />
+<input type="submit" value="Log in" className="loginboton" />
 </form>
             </div>
 
