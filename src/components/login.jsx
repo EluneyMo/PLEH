@@ -19,4 +19,4 @@ const Login = ()=> {
         </div>
      );
 }
-export default login;
+export default Login;
