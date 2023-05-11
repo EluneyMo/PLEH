@@ -1,7 +1,7 @@
 import React from 'react';
 import {useState, useEffect} from 'react';
 
-const login = ()=> {
+const Login = ()=> {
      return(
         <div className="login">
             <div className="logincontainter">
