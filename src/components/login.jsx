@@ -5,7 +5,7 @@ const Login = ()=> {
         <div className="login">
             <div className="logincontainter">
                 <form action="/" className='form'>
-                    <label htmlFor="email" className="email">Ingrese email</label>
+                    <label htmlFor="email" className="email">Ingrese email</label></br>
                         <input type="text" id="email" placeholder="robin23232@example.com" className="inputemail" />
                              <label htmlFor="contraseña" className="contraseña">Contraseña</label>
                                  <input type="contraseña" id="contraseña" placeholder="*********" className="inputcontraseña" />
