@@ -1,7 +1,9 @@
 import {} from 'react';
 function UsuarioButton(){
+    return (
     <button onclick ={()=> {window.location.href="/";}}>
-        <img href="" />
-    </button>
-    
+        <FontAwesomeIcon icon="fa-light fa-user" />" 
+    </button>  
+    )
 }
+export default UsuarioButton;
