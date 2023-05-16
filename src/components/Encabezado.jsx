@@ -1,7 +1,9 @@
 import {useState, useEffect} from 'react';
 function Header (){
     return(
-        <header></header>
+        <header>
+            <h1></h1>
+        </header>
         
     );
 }
