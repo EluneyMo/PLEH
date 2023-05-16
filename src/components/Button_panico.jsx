@@ -1,4 +1,4 @@
-function Card_Expertos() {
+function Button_Panico() {
     return(
         o
     );
