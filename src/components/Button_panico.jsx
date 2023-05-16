@@ -1,6 +1,8 @@
 function Button_Panico() {
     return(
-        o
+        <button className="Flotante-button">
+        Botón Flotante
+      </button>
     );
     
     
