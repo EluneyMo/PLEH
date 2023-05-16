@@ -6,5 +6,4 @@ function UsuarioButton(){
     </button>  
     )
 }
-
 export default UsuarioButton;
