@@ -1,9 +1,9 @@
 function Inputs() {
     const handleFormSubmit = (event) => {
       event.preventDefault();
-      // Aquí puedes agregar la lógica para enviar los datos del formulario
     };
   
+
     return (
       <form onSubmit={handleFormSubmit}>
         <div>
