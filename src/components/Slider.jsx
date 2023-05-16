@@ -1,7 +1,7 @@
 import React from 'react';
 import Slider from 'react-slick';
 
-const MySlider = () => {
+const Slider = () => {
   const settings = {
     dots: true,
     infinite: true,
@@ -25,4 +25,4 @@ const MySlider = () => {
   );
 };
 
-export default MySlider;
+export default Slider;
