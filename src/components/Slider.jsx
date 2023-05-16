@@ -1,0 +1,6 @@
+function Slider() {
+    return(
+        o
+    );
+    
+    }
