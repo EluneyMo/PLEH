@@ -2,7 +2,7 @@ import {useState, useEffect} from 'react';
 function Footer(){
     return (
         <footer>
-            <p></p>
+            <p>FOOTER</p>
         </footer>
     );
 }
