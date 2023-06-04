@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -12,6 +13,12 @@
     "react-native-webview": "^12.0.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
+=======
+    "cra-template": "1.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+>>>>>>> 05e556d2d83e16d4d8bcec6e53539db8ace30b90
   },
   "scripts": {
     "start": "react-scripts start",
@@ -36,9 +43,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "react-native-cli": "^2.0.1",
     "typescript": "^5.0.4"
+=======
+>>>>>>> 05e556d2d83e16d4d8bcec6e53539db8ace30b90
   }
 }
