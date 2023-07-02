@@ -1,8 +1,5 @@
-import {useState, useEffect} from 'react';
-import L from 'leaflet';
-import 'leaflet/dist/leaflet.css';
-render (){
-    return(
-        <div id="map" style={{ width: '100%', height: '400px' }}></div>
-    )
-}
+import {
+  MapContainer,
+  TileLayer,
+  useMap,
+} from 'https://cdn.esm.sh/react-leaflet'
