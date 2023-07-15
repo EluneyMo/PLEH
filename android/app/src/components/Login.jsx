@@ -2,6 +2,7 @@ import {useState, useEffect} from 'react';
 
 const Login = ()=> {
      return(
+     <section class="gradient-form h-full bg-neutral-200 dark:bg-neutral-700">
         <div className="login">
             <div className="logincontainter">
                 <form action="/" className='form'>
@@ -17,6 +18,7 @@ const Login = ()=> {
             </div>
 
         </div>
+       </section>
      );
 }
 export default Login;
