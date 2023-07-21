@@ -9,6 +9,7 @@ function App() {
   return (
  <Router>
  <Route exact path="components/" component={Login} />
+ <Route path="components/" component={HomeComponent} />
 </Router>
   );
 }
