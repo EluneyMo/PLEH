@@ -8,7 +8,7 @@ import Login from '/components/Login.jsx';
 function App() {
   return (
  <Router>
-
+ <Route exact path="components/" component={Login} />
 </Router>
   );
 }
