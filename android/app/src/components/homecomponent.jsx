@@ -4,6 +4,6 @@ return(
 <div>
 <h2>Pagin principal</h2>
 </div>
-)
+);
 }
 export default HomeComponent;
