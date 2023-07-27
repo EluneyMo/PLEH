@@ -28,6 +28,8 @@ import {
 type SectionProps = PropsWithChildren<{
   title: string;
 }>;
-function App()
+function App(){
+
+}
 
 export default App;
