@@ -29,7 +29,7 @@ type SectionProps = PropsWithChildren<{
   title: string;
 }>;
 function App(){
-
+<h1>HOLAAA<h1>
 }
 
 export default App;
