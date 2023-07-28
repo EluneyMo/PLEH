@@ -5,7 +5,7 @@ function App() {
   return (
   <React.Fragment>
 
-    <h1>HOOOOOOOOOOLAAAAAAA</h1>
+    <text>HOOOOOOOOOOLAAAAAAA</text>
    </React.Fragment>
   );
 }
