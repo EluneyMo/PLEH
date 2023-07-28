@@ -6,8 +6,9 @@ function App() {
   <React.Fragment>
     <div class="Appcontainer">
     throw ("HOOOOOOOOOOLAAAAAAA");
+     </div>
    </React.Fragment>
-   </div>
+
   );
 }
 export default App;
