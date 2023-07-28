@@ -5,7 +5,7 @@ function App() {
   return (
   <React.Fragment>
     <div class="Appcontainer">
-    throw ("HOOOOOOOOOOLAAAAAAA");
+        <h1>puo</h1>
      </div>
    </React.Fragment>
 
