@@ -1,14 +1,9 @@
 
 import React from "react";
-
+import { Text } from "react-native";
 function App() {
   return (
-  <React.Fragment>
-    <div class="Appcontainer">
-        <h1>puo</h1>
-     </div>
-   </React.Fragment>
-
+    <Text>Hello, world!</Text>
   );
 }
 export default App;
