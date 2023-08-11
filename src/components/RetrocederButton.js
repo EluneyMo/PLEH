@@ -12,10 +12,11 @@ function RetrocederButton() {
 const styles = StyleSheet.create({
     RetrocederButton: {
       backgroundColor: 'white',
-      color: 'purpura', // Estos deben ser valores válidos de color
+      color: 'purpura', 
       borderRadius: 5,
       margin: 50,
-    },
+    },)}
+
 export default RetrocederButton;
 
 
