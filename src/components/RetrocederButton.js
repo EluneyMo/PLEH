@@ -11,6 +11,7 @@ const styles = StyleSheet.create({
     RetrocederButton{
         background:white;
         color: purpura;
+        border-radius: 5px;
     }
 })
 export default RetrocederButton;
