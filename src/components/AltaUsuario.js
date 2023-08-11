@@ -8,6 +8,8 @@ const Sigup = () => {
 }
 const usuariocreado = async () => {
     const response = await axios.post('/', {
-        
+        username,
+        email,
+        password,
 }
 export default Sigup
