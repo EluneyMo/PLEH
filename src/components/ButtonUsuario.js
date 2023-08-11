@@ -8,11 +8,12 @@ function UsuarioButton(){
     )
 }
 const styles = StyleSheet.create({
-    RetrocederButton: {
+    UsuarioButton{
     
             backgroundColor: 'white',
-            color: 'purpura', 
-            
+            color: 'purpura',         
+      },
+      UsuarioButton:hover{
         
       },
 })
