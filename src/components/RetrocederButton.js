@@ -14,5 +14,9 @@ const styles = StyleSheet.create({
         border-radius: 5px;
         margin: 50px;
     }
+    RetrocederButton:hover{
+        background: purpura;
+        color: white;
+    }
 })
 export default RetrocederButton;
