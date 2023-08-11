@@ -21,8 +21,16 @@ import './Slider.css';
                 ant
             </button>
             <div className="slider">
+                
                 <div className="slide-container">
-
+                    {slides.map((slide, index) => (
+                        <div
+                            className={`slide ${index === currentIndex ? 'active' : ''}`}
+                            key={index}
+                            >
+                            {slide}
+                        </div>
+                ))}
                 </div>
             </div>
             <button  className="sig-boton">
