@@ -1,5 +1,5 @@
 import {} from 'react';
-import styles from './styles';
+import { StyleSheet } from 'react-native';
 function RetrocederButton() {
     return(
         <button  onclick ={()=> {window.history.back();}}>
@@ -7,5 +7,5 @@ function RetrocederButton() {
         </button>
     )
 }
-
+const styles = StyleSheet.create({})
 export default RetrocederButton;
