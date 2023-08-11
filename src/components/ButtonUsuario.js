@@ -1,20 +1,27 @@
-import {} from 'react';
-import { StyleSheet, TouchableOpacity, View } from 'react-native';
-function UsuarioButton(){
-    return (
-    <button onclick ={()=> {window.location.href="/Usuario.js";}}>
-           <FontAwesomeIcon icon="fa-light fa-user" />" 
-    </button>  
-    )
+import React from 'react';
+import { StyleSheet, TouchableOpacity } from 'react-native';
+import { FontAwesomeIcon } from '@expo/vector-icons'; 
+
+function UsuarioButton() {
+  return (
+    <TouchableOpacity
+      onPress={() => {
+      }}
+      style={styles.UsuarioButton}
+    >
+      <FontAwesomeIcon name="user" />
+    </TouchableOpacity>
+  );
 }
+
 const styles = StyleSheet.create({
-    UsuarioButton{
-    
-            backgroundColor: 'white',
-            color: 'purpura',         
-      },
-      UsuarioButton:hover{
-        
-      },
-})
+  UsuarioButton: {
+    backgroundColor: 'white',
+    color: 'purple', 
+    padding: 10, 
+    borderRadius: 5,
+    margin: 10,
+  },
+});
+
 export default UsuarioButton;
