@@ -8,9 +8,9 @@ function RetrocederButton() {
     )
 }
 const styles = StyleSheet.create({
-    *{
-        color:white;
-        
+    RetrocederButton{
+        background:white;
+        color: purpura;
     }
 })
 export default RetrocederButton;
