@@ -1,0 +1,6 @@
+function Inputs() {
+    return(
+        o
+    );
+    
+    }
