@@ -4,3 +4,10 @@
     align-items: center;
     justify-content: center;
   }
+
+  .ant-boton,
+.sig-boton {
+    background-color: #333;
+    color: white;
+    border: none;
+}
