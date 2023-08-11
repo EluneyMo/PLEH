@@ -9,7 +9,10 @@ function UsuarioButton(){
 }
 const styles = StyleSheet.create({
     RetrocederButton: {
-       
+    
+            backgroundColor: 'white',
+            
+        
       },
 })
 export default UsuarioButton;
