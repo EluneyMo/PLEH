@@ -1,0 +1,33 @@
+
+Login:
+	-Input
+	-Button redondo
+Inicio:
+	-footer y header
+	-boton usuario
+	-boton home
+	-boton retroceder
+	-navbar
+	-boton larguito
+	-boton de panico
+Usuario:
+	-cajita info 
+Encusta:
+	-cajita pregunta
+	-boton pequeñito
+Leyes:
+	-cajita leyesitas
+Expertos:
+	 -cajita expertos
+Informacion:
+	        -Slider
+	        -Caja tipos
+	        -Caja noticias 
+	        -Caja Ayuda
+Articulo:
+	-Caja articulo
+	-caja fotito
+Boton de panico:
+		     -mapa
+
+			
