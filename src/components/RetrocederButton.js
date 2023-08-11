@@ -1,5 +1,6 @@
-import {} from 'react';
-import { StyleSheet, TouchableOpacity, View } from 'react-native';
+import React from 'react';
+import { StyleSheet, TouchableOpacity } from 'react-native';
+import { FontAwesomeIcon } from '@expo/vector-icons'; 
 function RetrocederButton() {
     return(
 
@@ -15,7 +16,7 @@ const styles = StyleSheet.create({
       color: 'purpura', 
       borderRadius: 5,
       margin: 50,
-    },)}
+    }),
 
 export default RetrocederButton;
 
