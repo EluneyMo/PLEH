@@ -9,7 +9,11 @@ import './Slider.css';
         setCurrentIndex((prevIndex) => (prevIndex + 1) % slides.length);
       };
     
-     
+      const prevSlide = () => {
+        setCurrentIndex((prevIndex) =>
+          prevIndex === 0 ? slides.length - 1 : prevIndex - 1
+        );
+      };
 
     return (
         <div className="slider-container">
