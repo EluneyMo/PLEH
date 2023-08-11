@@ -12,3 +12,7 @@
     width: 60px;
     height: 60px;
   }
+
+  .botonFlotante:hover {
+    background-color: rgb(41, 11, 54); /* Cambia el color en el hover */
+  }
