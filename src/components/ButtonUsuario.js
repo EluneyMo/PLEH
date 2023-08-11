@@ -8,6 +8,8 @@ function UsuarioButton(){
     )
 }
 const styles = StyleSheet.create({
-    
+    RetrocederButton: {
+       
+      },
 })
 export default UsuarioButton;
