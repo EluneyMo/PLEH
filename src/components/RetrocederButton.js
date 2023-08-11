@@ -1,4 +1,5 @@
 import {} from 'react';
+import styles from './styles';
 function RetrocederButton() {
     return(
         <button  onclick ={()=> {window.history.back();}}>
