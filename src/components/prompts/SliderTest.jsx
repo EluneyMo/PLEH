@@ -5,9 +5,11 @@ import './Slider.css';
         const [currentIndex, setCurrentIndex] = useState(0);
     };
 
-    const prevSlide = () => {
-   
+    const nextSlide = () => {
+        setCurrentIndex((prevIndex) => (prevIndex + 1) % slides.length);
       };
+    
+     
 
     return (
         <div className="slider-container">
