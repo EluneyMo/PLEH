@@ -3,9 +3,13 @@ import './Button_Panico.css';
 
 function BotonFlotante() {
 
-return (
-<div ></div>
-    );
-}
+    return (
+        <div >
+
+            <button > </button>
+
+        </div>
+        );
+    }
 
 export default BotonFlotante;
