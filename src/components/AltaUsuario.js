@@ -6,5 +6,8 @@ const Sigup = () => {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
 }
-const usuariocreado = async () => {}
+const usuariocreado = async () => {
+    const response = await axios.post('/', {
+        
+}
 export default Sigup
