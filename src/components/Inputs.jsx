@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import './Inputs.css'; 
 
 function Inputs() {
     const handleFormSubmit = (event) => {
