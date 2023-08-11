@@ -11,6 +11,7 @@ const styles = StyleSheet.create({
     RetrocederButton: {
     
             backgroundColor: 'white',
+            color: 'purpura', 
             
         
       },
