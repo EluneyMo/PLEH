@@ -4,7 +4,7 @@ import './Button_Panico.css';
 function BotonFlotante() {
 
 return (
-
+<div ></div>
     );
 }
 
