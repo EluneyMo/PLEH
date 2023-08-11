@@ -6,7 +6,9 @@ function BotonFlotante() {
     return (
         <div >
 
-            <button > </button>
+            <button > 
+            <img src="" alt="" className="" />
+            </button>
 
         </div>
         );
