@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './Slider.css'; 
 
     const Slider = ({ slides }) => {
-    
+        const [currentIndex, setCurrentIndex] = useState(0);
     };
 
     const prevSlide = () => {
