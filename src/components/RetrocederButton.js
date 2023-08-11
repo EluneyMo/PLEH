@@ -9,6 +9,7 @@ function RetrocederButton() {
 }
 const styles = StyleSheet.create({
     *{
+        color:white;
         
     }
 })
