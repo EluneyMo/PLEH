@@ -1,7 +1,13 @@
 import React, { useState } from 'react';
 import './Slider.css'; 
 
-function Slider() {
+    const Slider = ({ slides }) => {
+    
+    };
+
+    const prevSlide = () => {
+   
+      };
 
     return (
         <div className="slider-container">
@@ -18,6 +24,6 @@ function Slider() {
             </button>
       </div>
         );
-    };
+   
 
 export default Slider;
