@@ -20,3 +20,8 @@
     width: 80%; 
     position: relative;
   }
+
+  .slide-container {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
