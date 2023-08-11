@@ -7,4 +7,7 @@ function UsuarioButton(){
     </button>  
     )
 }
+const styles = StyleSheet.create({
+    
+})
 export default UsuarioButton;
