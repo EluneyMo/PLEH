@@ -4,15 +4,16 @@ import './Slider.css';
 function Slider() {
 
     return (
-        <div >
-            <button >
+        <div className="slider-container">
+            <button  className="ant-boton">
                 ant
             </button>
-            <div >
-                <div >
+            <div className="slider">
+                <div className="slide-container">
+
                 </div>
             </div>
-            <button >
+            <button  className="sig-boton">
                 sig
             </button>
       </div>
