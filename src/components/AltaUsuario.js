@@ -11,5 +11,5 @@ const usuariocreado = async () => {
         username,
         email,
         password,
-}
+}}
 export default Sigup
