@@ -13,13 +13,9 @@ return (
     <div>
       <Header />
       <main>
-        <h1>Iniciar sesión</h1>
+        <h1></h1>
         <LoginForm
-          username={username}
-          password={password}
-          setUsername={setUsername}
-          setPassword={setPassword}
-          onLogin={handleLogin}
+          
         />
       </main>
       <Footer />
