@@ -15,7 +15,10 @@ return (
       <main>
         <h1>pregunbtas:</h1>
         <LoginForm
-          
+          cajapreguntas2
+          botonlargo
+          botonlargo
+          botonlargo
         />
       </main>
       <Footer />
