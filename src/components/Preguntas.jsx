@@ -12,9 +12,9 @@ const botonlargo = () => [
 return (
     <div>
       <Header />
-      <main>
+      <main class="preguntas">
         <h1>pregunbtas:</h1>
-        <LoginForm
+        <LoginForm 
           cajapreguntas2
           botonlargo
           botonlargo
