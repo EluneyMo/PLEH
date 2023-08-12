@@ -6,3 +6,6 @@
     color: purple;
     border-radius: 5px;
 }
+.preguntas:hover{
+    color: white;
+}
