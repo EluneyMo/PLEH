@@ -7,5 +7,5 @@ const cajapreguntas2 = () => {
     const [preguntas];
 }
 const botonlargo = () => [
-    
+    //codigo a consultar
 ]
