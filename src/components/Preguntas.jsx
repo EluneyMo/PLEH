@@ -4,5 +4,5 @@ import cajapreguntas2 from './cajapreguntas2';
 import botonpanico from './botonpanico'
 
 const cajapreguntas2 = () => {
-    
+    const [preguntas];
 }
