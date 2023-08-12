@@ -6,3 +6,6 @@ import botonpanico from './botonpanico'
 const cajapreguntas2 = () => {
     const [preguntas];
 }
+const botonlargo = () => [
+    
+]
